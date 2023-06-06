@@ -46,7 +46,13 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        Focus on learning...
+        <p>
+        Atharva Mudalgikar, <br/>
+        Network engineer - working on Junos platform on EVPN-VXLAN fabric technology. I build, manage connectivity and security services for <b style={ {color:"white"}}> Data Center  </b> applications.<br/>
+        Passionate about tech, love exploring various technology, and love to speak on tech.<br/>
+        Thanks for hanging by... cheers~
+        </p>
+
       </SectionText>
 
       <CarouselContainer ref={carouselRef}>
