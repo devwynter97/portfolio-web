@@ -28,7 +28,7 @@ export const TimeLineData = [
   { year: 2021, text: 'Started my own platform', },
 ];
 
-{/*
+{
 
  {
     title: 'WebRTC App',
@@ -49,4 +49,4 @@ export const TimeLineData = [
     id: 3,
   },
 
-*/}
+}
