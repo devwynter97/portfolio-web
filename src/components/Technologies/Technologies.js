@@ -9,7 +9,10 @@ const Technologies = () =>  (
     <br/>
     <SectionTitle> Techonologies</SectionTitle>
     <SectionText>
-      Network EVPN-VxLAN
+      Data Center based on Network EVPN-VxLAN
+      Network Security with Fortigate Firewall
+      Application Security with F5 BigIP
+      Network Autmation
     </SectionText>
 
     <List>
